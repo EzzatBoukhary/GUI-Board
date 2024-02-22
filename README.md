@@ -42,7 +42,7 @@ For a detailed report on the project and a chart of OO Design, please refer to [
 ## Screenshots
 
 ### Main Menu
-![Main Menu](mainMenu.jpg)
+![Main Menu](mainMenu.png)
 
 ### Board
-![Board](board.jpg)
+![Board](board.png)
